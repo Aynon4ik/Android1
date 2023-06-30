@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">First Homework</string>
+
+    <string name="name">Ввести имя</string>
+    <string name="weight">Ввести рост</string>
+    <string name="height">Ввести вес</string>
+    <string name="age">Ввести возраст</string>
+
+    <string name="result">Result</string>
+
+</resources>
